@@ -3,3 +3,11 @@
 ###############
 Descripción de organización de directorios y notas de 
 aclaración de esquemáticos y PCB.
+
+ El diseño de la pusera de sensores está hecha en base 
+al uC ATMEGA644RFR2-ZU-ND y al bloque de sensores 9DOF 
+que ya tenía Cristian (9 grados de libertad). LA fuente
+de alimentación está hecha para que sea alimentada con
+pilas, desde 0,85V hasta 3,3V y tenga una tensión de
+salida de 3,3V en todo momento.
+
